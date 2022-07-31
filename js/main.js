@@ -1,5 +1,6 @@
 
 $( document ).ready(function() {
+  window.location = "href="https://wa.me/966564175832?text=مرحبا شركة امكان"
   $(function() {
     $('.skitter-large').skitter({
       fullscreen: true,
